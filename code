@@ -194,3 +194,5 @@ void loop() {
   default:
     state = S_IDLE;
     break;
+  } 
+}
